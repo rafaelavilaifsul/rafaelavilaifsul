@@ -1,9 +1,11 @@
-## Hi there 👋
+## Sobre
+
+Olá, eu sou o Prof. Rafael Ávila.
 
 <!--
 **rafaelavilaifsul/rafaelavilaifsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ere are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
